@@ -1,0 +1,60 @@
+body {
+  background-color: #1a1a1a;
+}
+
+h1 {
+  font-family: 'Comic Sans MS';
+}
+
+header {
+  background: #000000;
+  color: white;
+  font-size: 18px;
+  display: flex;
+}
+
+.headeritem {
+  padding-left: 10px;
+  padding-top: 10px;
+}
+
+img.logo {
+  padding-left: 10px;
+  padding-top: 10px;
+  width: 200px;
+}
+
+p {
+  font-family: 'Comic Sans MS';
+}
+
+li {
+  color: white;
+}
+
+.normal {
+  color: lightgray;
+  font-family: 'Comic Sans MS';
+}
+
+.normallink {
+  font-family: 'Comic Sans MS';
+}
+
+.normalsmall {
+  color: lightgray;
+  font-size: 15;
+  font-family: 'Comic Sans MS';
+  padding-left: 60px;
+  padding-top: 10px;
+}
+
+.headerlink {
+  color: white;
+}
+
+.link {
+  padding-left: 10px;
+  padding-top: 10px;
+  color: white;
+}
