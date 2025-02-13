@@ -41,6 +41,11 @@ li {
   font-family: 'Comic Sans MS';
 }
 
+.whitelink {
+  font-family: 'Comic Sans MS';
+  color: lightgray;
+}
+
 .normalsmall {
   color: lightgray;
   font-size: 15;
