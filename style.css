@@ -16,7 +16,7 @@ footer {
   background: #000000;
   color: white;
   font-size: 18px;
-  height: 50px;
+  height: auto;
 }
 .headeritem {
   padding-left: 10px;
