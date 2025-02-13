@@ -12,7 +12,12 @@ header {
   font-size: 18px;
   display: flex;
 }
-
+footer {
+  background: #000000;
+  color: white;
+  font-size: 18px;
+  height: 50px;
+}
 .headeritem {
   padding-left: 10px;
   padding-top: 10px;
