@@ -10,8 +10,7 @@ header {
   background: #000000;
   color: white;
   font-size: 18px;
-  height: 100%;
-  width: 20px;
+  display: flex;
 }
 footer {
   background: #000000;
