@@ -23,6 +23,12 @@ footer {
   padding-top: 10px;
 }
 
+.headerright{
+  padding-top: 10px;
+  margin-left: auto; 
+  margin-right: 0;
+}
+
 img.logo {
   padding-left: 10px;
   padding-top: 10px;
